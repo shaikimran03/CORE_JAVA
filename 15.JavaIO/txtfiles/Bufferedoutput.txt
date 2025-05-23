@@ -1,0 +1,4 @@
+Hello, this text is written using BufferedWriter!
+
+This is line 2.
+This is another line using writer.write().
