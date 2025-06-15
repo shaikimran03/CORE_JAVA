@@ -13,6 +13,7 @@ public class CreatingClassObjectMethod {
     // Main method - program execution starts here
     public static void main(String[] args) {
         // Creating object of CreatingClassObjectMethod
+        // class name new object =new classname ;
         CreatingClassObjectMethod calculator = new CreatingClassObjectMethod();
 
         //Method Signatures	: add(int, int) and subtract(int, int)
